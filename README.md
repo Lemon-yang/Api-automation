@@ -10,8 +10,17 @@ Requests
 
 How We can execute it:
 1. cd API-Automation
+
+#Run on Linux OS
 2. source api_env/bin/activate
-3 python main.py 
+
+#for Windows OS
+Install virtualenv first
+https://www.geeksforgeeks.org/creating-python-virtual-environment-windows-linux/
+
+Python <venv>/Scripts/activate
+
+3 and then > python main.py press enter
 
 
 Output:
