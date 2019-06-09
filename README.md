@@ -1,4 +1,4 @@
-# API-Automation
+# Restful API Automation framework (data driven)
 ------------------------------------------------------------------------------------------------------------
 This framework can be used for testing restful APIs. framework is data driven where we can provide testcases for n number of APIs in excel sheet, and it will be picked and processed with API responses.
 
