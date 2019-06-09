@@ -19,5 +19,7 @@ Check the result folder for output
 
 Reports: Check results excel last sheet, contains graphs with number of test cases failed and passed
 
-Happy testig....!!
+Happy testing....!!
+
+Love automation.
 
