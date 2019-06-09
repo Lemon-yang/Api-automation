@@ -17,5 +17,7 @@ How We can execute it:
 Output:
 Check the result folder for output
 
-Reports: Graphical representation 
+Reports: Check results excel last sheet, contains graphs with number of test cases failed and passed
+
+Happy testig....!!
 
